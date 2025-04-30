@@ -1,0 +1,17 @@
+{
+    "name": "com.homemade.tick",
+    "rootNamespace": "com.homemade.tick",
+    "references": [
+        "GUID:0f303bc7dc455924bb651b0149faeec8",
+        "GUID:e1786735250f08b48a414c547ec8d895"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

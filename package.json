@@ -1,0 +1,15 @@
+{
+  "name": "com.homemade.tick",
+  "version": "1.0.0",
+  "displayName": "com.homemade.tick",
+  "description": "Small package about tick system",
+  "unity": "2021.1",
+  "author": {
+    "name": "HomeMadeST",
+    "email": "homemadegame102@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hungpt17102k/com.homemade.tick"
+  }
+}
