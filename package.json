@@ -11,5 +11,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hungpt17102k/com.homemade.tick"
+  },
+  "dependencies": {
+    "com.homemade.mec": "1.0.0",
+    "com.homemade.pattern.singleton": "1.0.1"
   }
 }
